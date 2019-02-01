@@ -1,0 +1,25 @@
+{
+  "name": "bmii/smt-api-doc",
+  "description": "Simple Merchant API documentation",
+  "keywords": ["smt","Simple","Merchant","api","documentation"],
+  "homepage": "https://github.com/bmii/smt-api-doc",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Sir Louis",
+          "email": "me@sirlouis.io",
+          "homepage": "https://sirlouis.io",
+          "role": "developer"
+      },
+      {
+          "name": "Tym Frontiers Ltd",
+          "email": "git@tymfrontiers.com",
+          "homepage": "https://tymfrontiers.com",
+          "role": "developer"
+      }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {}
+}
